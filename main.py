@@ -8,3 +8,5 @@ if answer in answerS:
     print('Отлично')
 else:
     print('Ну и ладно')
+
+print('Пока')
