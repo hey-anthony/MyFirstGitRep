@@ -9,4 +9,4 @@ if answer in answerS:
 else:
     print('Ну и ладно')
 
-print('Пока')
+print('Пока еще раз')
